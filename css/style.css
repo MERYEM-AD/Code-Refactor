@@ -25,32 +25,15 @@ body {
     color: #d9dcd6;
 }
 
-/* replace every div by section line : 28 ,36 ,40 */
-.header nav{
-  /*  padding-top: 15px;
-    
-    margin-right: 20px;
-    float: right; 
-    */
-    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    
-}
+/* replace div of link  by nav to have a navigation bar  */
 .header  nav{
-    display: inline-block;
-    position: relative;
-    left: 494px;
-    bottom: 11px;
+    padding-top: 15px;
+    margin-right: 20px;
+    float: right;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 20px;
+    display: inline-block;  /* makes navigation bar inline with the line before*/
 }
-/*
-.header section ul {
-    list-style-type: none;
-}
-
-.header section ul li {
-    display: inline-block;
-    margin-left: 25px;
-}
-*/
 
 a {
     color: #ffffff;
