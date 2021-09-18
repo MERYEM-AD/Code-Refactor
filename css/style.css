@@ -25,7 +25,7 @@ body {
     color: #d9dcd6;
 }
 
-/* replace div of the list links by nav to have a navigation bar inculing the links */
+/* Replace div of the list links by nav to have a navigation bar including the links */
 .header  nav{
     padding-top: 15px;
     margin-right: 20px;
@@ -38,7 +38,7 @@ body {
 a {
     color: #ffffff;
     text-decoration: none;
-    margin-left: 30px; /*adding space between links*/
+    margin-left: 30px;   /*Adding space between links*/
 }
 
 p {
