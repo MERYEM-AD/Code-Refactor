@@ -1,4 +1,4 @@
-* {
+* { 
     box-sizing: border-box;
     padding: 0;
     margin: 0;
@@ -25,14 +25,14 @@ body {
     color: #d9dcd6;
 }
 
-/* replace div of link  by nav to have a navigation bar  */
+/* replace div of the list links by nav to have a navigation bar inculing the links */
 .header  nav{
     padding-top: 15px;
     margin-right: 20px;
-    float: right;
+    float: right; /* this makes navigation bar in the right position */
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     font-size: 20px;
-    display: inline-block;  /* makes navigation bar inline with the line before*/
+
 }
 
 a {
@@ -184,7 +184,7 @@ p {
     margin-bottom: 20px;
     font-size: 36px;
 }
-/* Extra : add a fixed linked icon image that allows to go up of the page  */
+/* Extra : add a fixed linked icon image that allows to go Up on the page  */
 #Up-icon img{
 
     width: 50px;
