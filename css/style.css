@@ -184,6 +184,14 @@ p {
     margin-bottom: 20px;
     font-size: 36px;
 }
+/* Extra : add a fixed linked icon image that allows to go up of the page  */
+#Up-icon img{
+
+    width: 50px;
+    position:fixed;
+    bottom: 0px;
+    right: 0px;
+}
 
 .footer {
     padding: 30px;
