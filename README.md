@@ -26,6 +26,9 @@
 * Commit with msg every modification in code.
 * Pushing to the repo in GitHub. 
 
+# Application's Screenshoot:
+![Screenshoot-app](images/Screenshoot-app.PNG)
+
 # Links :
 
 * The URL of the deployed application: https://meryem-ad.github.io/Code-Refactor/
