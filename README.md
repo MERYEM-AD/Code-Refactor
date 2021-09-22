@@ -1,4 +1,4 @@
-# HW-Code-Refactor
+# Code Refactor
 
 # Creation a repo in GitHub:
 
@@ -26,11 +26,7 @@
 * Commit with msg every modification in code.
 * Pushing to the repo in GitHub. 
 
-# Isues:
-
-* I found it hard to set the three sections (Search Engine Optimization , Online Reputation Management , Social Media Marketing) as the mock-up ("I talk about the resolution"), Then I found two ways can solve the issues
-    1*/ reduce the width of the content, then centered with position properties;
-    2*/ Use margin-right for the header and the paragraph and then use position: relative; same for the image but it will not seems 100% as the mock-up.
-
-====> So that why I leave it as you found it.
+# Links :
+The URL of the deployed application: https://meryem-ad.github.io/Code-Refactor/
+The URL of the GitHub repository: https://github.com/MERYEM-AD/Code-Refactor
          
