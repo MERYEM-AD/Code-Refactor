@@ -2,7 +2,7 @@
 
 # Creation a repo in GitHub:
 
-  * Name of repo : HW-Code-Refactor.
+  * Name of repo :Code Refactor
   * Using GitBash to create Directories and files.
 
 # Starting to Apply the Acceptance Criteria.
