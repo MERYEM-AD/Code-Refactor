@@ -146,7 +146,7 @@ p {
     margin: 10px auto;
     max-width: 150px;
 }
-
+ /* merge classes that have the same CSS properties to one class */
 /* .search-engine-optimization {
     margin-bottom: 20px;
     padding: 50px;
