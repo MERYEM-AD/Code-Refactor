@@ -27,6 +27,7 @@
 * Pushing to the repo in GitHub. 
 
 # Links :
-The URL of the deployed application: https://meryem-ad.github.io/Code-Refactor/
-The URL of the GitHub repository: https://github.com/MERYEM-AD/Code-Refactor
+
+* The URL of the deployed application: https://meryem-ad.github.io/Code-Refactor/
+* The URL of the GitHub repository: https://github.com/MERYEM-AD/Code-Refactor
          
